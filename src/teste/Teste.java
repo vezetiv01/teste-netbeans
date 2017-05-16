@@ -31,6 +31,10 @@ public class Teste extends Application {
             }
         });
         
+        //chuparina da quebrada
+        //chupetovisk na cama
+        
+        
         StackPane root = new StackPane();
         root.getChildren().add(btn);
         
